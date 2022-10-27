@@ -18,13 +18,13 @@ Work individually to implement the following user story:
 
 ## Notes
 
-Deployed Application:
-<!-- add link -->
-[Live website](link)
+The following link presents the deployed application:
+
+[Live website](https://karinnesagir.github.io/HTML-CSS-Git-project/)
 
 ## Assets
 
 The following image demonstrates the web application's appearance:
 
-[Web application appearance](./develop/assets/images/web-application-appearance.jpg)
+[Web application appearance](./assets/images/web-application-appearance.jpg)
 
