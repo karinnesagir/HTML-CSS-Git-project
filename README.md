@@ -27,3 +27,4 @@ Deployed Application:
 The following image demonstrates the web application's appearance:
 
 [Web application appearance](./develop/assets/images/web-application-appearance.jpg)
+
